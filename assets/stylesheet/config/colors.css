@@ -1,0 +1,29 @@
+/* COLOURS */
+
+
+:root {
+  /* color combo 1 */
+  --primary-purple: #B564F7; /* Define a root variable for primary color */
+  --primary-pink: #F2B8B4;
+  --primary-yellow: #F9CF5A;
+
+  /* color combo 2 */
+  --primary-dblue: #110C62;
+  --primary-salmon: #F08E80;
+  --primary-cream: #FDF0E6;
+
+  /* color combo 3 */
+  --primary-lblue: #94ABF9;
+  --primary-lavender: #F598FF;
+  --primary-grey: #E5E9FD;
+
+  /* color combo 4 */
+  --primary-khaki: #B8BC7E;
+  --primary-lime: #DFE777;
+  --primary-lyellow: #FDFDC1;
+
+  /* color combo 5 */
+  --primary-teal: #476C77;
+  --primary-peach: #EFB071;
+  --primary-lgrey: #E0E2EC;
+}
