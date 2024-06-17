@@ -14,7 +14,7 @@ body {
 
 /* use viewport-relative units to cover page fully */
 body {
-  height: 200vh;
+  height: 300vh;
   width: 100vw;
   font-family: "Exo 2", sans-serif;
   /* background: linear-gradient(180deg, rgba(148,171,249,1) 0%, rgba(245,152,255,1) 50%, rgba(229,233,253,1) 100%); */
